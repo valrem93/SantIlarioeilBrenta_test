@@ -5,7 +5,7 @@ _Archeologia, Tecnologia e Identità di un Territorio: [Heritage for Mankind](ht
 
 Questo sito nasce da un progetto universitario iniziato nel 2019 e dedicato al monastero di Sant’Ilario a Dogaletto di Mira (Venezia). Qui troverete immagini, articoli, pubblicazioni ed approfondimenti sulla ricerca degli ultimi dieci anni fatta dal Dipartimento di Studi Umanistici dell’Università Ca’ Foscari di Venezia.
 
-### CELEBRATE and CONSERVE, CONNECT and COLLABORATE ###
+CELEBRATE and CONSERVE, CONNECT and COLLABORATE 
 
 **MOTIVAZIONI**
 
