@@ -1,5 +1,9 @@
-## HOME
-![Image](src)
+## [HERITAGE for MANKIND](https://www.marketingarena.it/2020/01/22/heritage-for-mankind-i-dati-di-ricerca-alla-portata-di-tutti/)
+
+![Image](https://www.marketingarena.it/app/uploads/2020/01/venice_heritage_copertina-920x520.jpg)
+
+
+
 
 
 ## ABOUT
@@ -25,18 +29,16 @@ Come lasciare un’eredità, come raccontare il passato, come creare una comunit
 
 
 
-## [Verso un Heritage per tutti con le strategie digitali](https://www.youtube.com/watch?v=H1UhlMT0j4c&feature=emb_title) 
+## [STRATEGIE DIGITALI](https://www.youtube.com/watch?v=H1UhlMT0j4c&feature=emb_title) 
 
 Le narrazioni che vogliamo raccontare oggi sono storie, racconti, che vogliono essere partecipativi. Se pensiamo ai miti greci, alla cultura greca da Omero a Platone, il narratore non raccontava da solo una storia, veniva aiutato dai partecipanti, con la voce, il canto…era la forza della tradizione orale.
 
 Si trattava di un mezzo di comunicazione fortissimo che poi si evolve con la tradizione scritta. Un filologo classico inglese, Eric Havelock ad esempio, in un suo libro intitolato ‘Cultura Orale e Civiltà della Scrittura’, racconta come un tempo fino a Platone, la poesia trasmessa oralmente rappresentava il veicolo di diffusione di tutto il sapere scientifico, giuridico, storico, religioso, filosofico. Poesia orale e cultura erano una cosa sola. Poi, alla fine del V secolo la crisi politica e spirituale conseguente agli sconvolgimenti prodotti dalla guerra del Peloponneso creò le condizioni per un radicale mutamento.  Proprio da una situazione di incertezza e instabilità scaturì, per reazione, l’esigenza di un sapere fondato su più solide basi, ordinato criticamente e sistematicamente, un sapere impossibile a trasmettersi se non per il tramite della scrittura. Si tratta di nuovi canali di trasmissione, come vogliamo tentare di sperimentare noi oggi!
+
 Scopri di più:
-
-[Demo Margine Lagunare]https://www.youtube.com/watch?v=hBOqiGFb5lU&feature=emb_title
-
-[Demo Arrivo del Brenta]https://www.youtube.com/watch?v=W8ebZLbcBCA
-
-[Demo Villa sul Brenta]https://www.youtube.com/watch?v=hDKI1UnjS2Q
+[Demo Margine Lagunare](https://www.youtube.com/watch?v=hBOqiGFb5lU&feature=emb_title)
+[Demo Arrivo del Brenta](https://www.youtube.com/watch?v=W8ebZLbcBCA)
+[Demo Villa sul Brenta](https://www.youtube.com/watch?v=hDKI1UnjS2Q)
 
 
 
