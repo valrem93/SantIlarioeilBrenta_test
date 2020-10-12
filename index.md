@@ -1,6 +1,9 @@
 ## HOME
+![Image](src)
+
+
 ## ABOUT
-_Archeologia, Tecnologia e Identità di un territorio_
+_Archeologia, Tecnologia e Identità di un Territorio_
 
 Questo sito nasce da un progetto universitario iniziato nel 2019 e dedicato al monastero di Sant’Ilario a Dogaletto di Mira (Venezia). Qui troverete immagini, articoli, pubblicazioni ed approfondimenti sulla ricerca degli ultimi dieci anni fatta dal Dipartimento di Studi Umanistici dell’Università Ca’ Foscari di Venezia.
 
@@ -19,6 +22,21 @@ Ciò che è straordinario è che stiamo parlando dello stesso luogo scelto dal P
 
 Come valorizzare la complessità, sensibilizzare le persone verso la comprensione delle particolari caratteristiche del paesaggio? Come donare un’identità, innanzitutto visiva al patrimonio? Le attività svolte sono tutte rivolte a tradurre e a trasmettere il valore del patrimonio culturale del territorio, o meglio del paesaggio, così come inteso nella Convenzione Europea del Paesaggio del 20 ottobre 2000 successivamente ratificata con la legge del 9 gennaio 2006 n°14 “…una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall’azione di fattori naturali e/o umani e dalle loro interrelazioni…”. I beni paesaggistici, categoria in vigore nel Codice dei Beni Culturali e del Paesaggio (artt. 2 e 134 del d.lgs. 22 gennaio 2004 n. 42, come modificato dal d.lgs. 24 marzo 2006 n. 157 e dal d.lgs. 26 marzo 2008 n. 63) rappresentano dunque una componente irrinunciabile per la valorizzazione del Patrimonio Culturale. 
 Come lasciare un’eredità, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
+
+
+
+## [Verso un Heritage per tutti con le strategie digitali](https://www.youtube.com/watch?v=H1UhlMT0j4c&feature=emb_title) 
+
+Le narrazioni che vogliamo raccontare oggi sono storie, racconti, che vogliono essere partecipativi. Se pensiamo ai miti greci, alla cultura greca da Omero a Platone, il narratore non raccontava da solo una storia, veniva aiutato dai partecipanti, con la voce, il canto…era la forza della tradizione orale.
+
+Si trattava di un mezzo di comunicazione fortissimo che poi si evolve con la tradizione scritta. Un filologo classico inglese, Eric Havelock ad esempio, in un suo libro intitolato ‘Cultura Orale e Civiltà della Scrittura’, racconta come un tempo fino a Platone, la poesia trasmessa oralmente rappresentava il veicolo di diffusione di tutto il sapere scientifico, giuridico, storico, religioso, filosofico. Poesia orale e cultura erano una cosa sola. Poi, alla fine del V secolo la crisi politica e spirituale conseguente agli sconvolgimenti prodotti dalla guerra del Peloponneso creò le condizioni per un radicale mutamento.  Proprio da una situazione di incertezza e instabilità scaturì, per reazione, l’esigenza di un sapere fondato su più solide basi, ordinato criticamente e sistematicamente, un sapere impossibile a trasmettersi se non per il tramite della scrittura. Si tratta di nuovi canali di trasmissione, come vogliamo tentare di sperimentare noi oggi!
+Scopri di più:
+
+[Demo Margine Lagunare]https://www.youtube.com/watch?v=hBOqiGFb5lU&feature=emb_title
+
+[Demo Arrivo del Brenta]https://www.youtube.com/watch?v=W8ebZLbcBCA
+
+[Demo Villa sul Brenta]https://www.youtube.com/watch?v=hDKI1UnjS2Q
 
 
 
