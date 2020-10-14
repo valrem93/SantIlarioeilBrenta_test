@@ -1,2 +1,2 @@
-# workshop-oc.github.io
-Website of the Workshop on Open Citations
+# Venice River Collection
+Website for public engagement
