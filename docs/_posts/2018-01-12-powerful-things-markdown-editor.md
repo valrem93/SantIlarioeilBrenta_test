@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il sito archeologico e la sua Storia"
+title:  "Il Sito Archeologico e la sua Storia"
 author: EC
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
