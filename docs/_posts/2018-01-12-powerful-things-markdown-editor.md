@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il sito racconta"
-author: sal
+author: EC
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 featured: true
