@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Storia del Fiume"
+title:  "Il Fiume Racconta"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
