@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il sito racconta"
+title:  "Il sito archeologico racconta"
 author: EC
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
