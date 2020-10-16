@@ -1,2 +1,2 @@
-Venice river Collection
-Blog site for Public Engagement
+Venice River Collection
+Blog-Site for Public Engagement
