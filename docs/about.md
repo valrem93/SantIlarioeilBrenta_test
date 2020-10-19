@@ -25,7 +25,7 @@ Le NARRAZIONI presentate in questo blog-site vogliono essere **partecipative**. 
 
 
 
-<a href="https://www.youtube.com/watch?v=H1UhlMT0j4c" target="_blank">Scopri di più Theme</a>
+<a href="https://www.youtube.com/watch?v=H1UhlMT0j4c" target="_blank">Scopri di più</a>
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
