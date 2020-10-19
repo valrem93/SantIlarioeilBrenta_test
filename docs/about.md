@@ -4,7 +4,7 @@ title: About
 comments: true
 ---
 
-_Celebrate and Conserve, Connect and Collaborate_
+_#Celebrate and #Conserve, #Connect and #Collaborate_
 
 Questa è la storia del sito archeologico di Sant'Ilario, un monastero di fondazione dogale situato alle porte di Venezia, in località Dogaletto di Mira (oggi Città Metropolitana di Venezia). E' un viaggio nel TEMPO, che scorre la vita di **Dogi**, **monaci** e **comunità**, e nello SPAZIO, che attaversa **Venezia**, la **Laguna** ed l'**immediato entroterra**. 
 Sono storie di attimi, di scelte, che spesso hanno segnato anche il presente in cui viviamo. Per questi motivi, le storie di Sant'Ilario sono immancabilmente le nostre. D'altra parte, spesso accade che lasciamo una parte di noi nel momento in cui abbandoniamo un luogo per spostarci in un altro. Rimane lì qualcosa di unico e di speciale, anche una volta che ce ne siamo andati. Che siano mille o che siano dieci anni fa, ci sono cose di noi che possiamo trovare solamente ritornando in quegli stessi posti. Noi, noi non siamo solo persone, siamo l’esito di una evoluzione, siamo un popolo che ha scelto una direzione, cioè quella di andare verso il futuro. Che cosa si può, che cosa si deve fare di tutto il tempo che abbiamo davanti, tanto leggero come un coriandolo nella sua libertà quanto pesante come il piombo nella sua insicurezza? Una delle risposte potrebbe essere quella di andare in quei luoghi che hanno fatto da sfondo alla nostra esistenza e, una volta lì, viaggiare in noi stessi. A volte si rende proprio necessario confrontarsi con chi siamo stati per capire chi siamo ora e per riflettere su chi saremo domani. 
