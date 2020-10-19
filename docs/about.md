@@ -25,13 +25,9 @@ Le NARRAZIONI presentate in questo blog-site vogliono essere **partecipative**. 
 
 
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+<a href="https://www.youtube.com/watch?v=H1UhlMT0j4c" target="_blank">Scopri di più Theme</a>
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 
