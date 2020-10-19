@@ -8,7 +8,7 @@ _#Celebrate and #Conserve, #Connect and #Collaborate_
 
 **Celebrare la Storia**
 
-Questa è la storia del sito archeologico di Sant'Ilario, un monastero di fondazione dogale situato alle porte di Venezia, in località Dogaletto di Mira (oggi Città Metropolitana di Venezia). Il sito si propone come un viaggio nel TEMPO, scorrendo tra la vita di **Dogi**, **monaci** e **comunità**, e nello SPAZIO, attaversando **Venezia**, la **Laguna** ed l'**immediato entroterra**. Sono storie di attimi, di scelte passate che segnano il presente in cui viviamo: le STORIE DI SANT'ILARIO sono immancabilmente le **nostre**. 
+<div align=justify> Questa è la storia del sito archeologico di Sant'Ilario, un monastero di fondazione dogale situato alle porte di Venezia, in località Dogaletto di Mira (oggi Città Metropolitana di Venezia). Il sito si propone come un viaggio nel TEMPO, scorrendo tra la vita di **Dogi**, **monaci** e **comunità**, e nello SPAZIO, attaversando **Venezia**, la **Laguna** ed l'**immediato entroterra**. Sono storie di attimi, di scelte passate che segnano il presente in cui viviamo: le STORIE DI SANT'ILARIO sono immancabilmente le **nostre**. 
 
 **Consevare l'Identità**
 
@@ -18,7 +18,7 @@ Che siano passati mille o anche solo dieci anni, ci sono cose di NOI che possiam
 
 **Connettersi e Partecipare**
 
-Le NARRAZIONI presentate in questo blog-site vogliono essere **partecipative**. Se si pensa alla Cultura greca, il narratore non raccontava da solo una storia, ma veniva aiutato dai partecipanti, con la voce, attraverso il canto… Si trattava della TRADIZIONE orale, un mezzo di **comunicazione** fortissimo, che poi si evolve con la tradizione scritta.
+Le NARRAZIONI presentate in questo blog-site vogliono essere **partecipative**. Se si pensa alla Cultura greca, il narratore non raccontava da solo una storia, ma veniva aiutato dai partecipanti, con la voce, attraverso il canto… Si trattava della TRADIZIONE orale, un mezzo di **comunicazione** fortissimo, che poi si evolve con la tradizione scritta.</div>
 
 
 
