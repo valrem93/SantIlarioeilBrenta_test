@@ -5,7 +5,7 @@ comments: true
 ---
 
 _#Celebrate and #Conserve, #Connect and #Collaborate_
-
+<a href="https://books.google.it/books/about/Cultura_orale_e_civilt%C3%A0_della_scrittura.html?id=q0mjQwAACAAJ&redir_esc=y" target="_blank">E.A. Havelock 2019, Cultura orale e civiltà della scrittura </a>
 **Celebrare la Storia**
 
 Questa è la storia del sito archeologico di Sant'Ilario, un monastero di fondazione dogale situato alle porte di Venezia, in località Dogaletto di Mira (oggi Città Metropolitana di Venezia). Il sito si propone come un viaggio nel TEMPO, scorrendo tra la vita di **Dogi**, **monaci** e **comunità**, e nello SPAZIO, attaversando **Venezia**, la **Laguna** e l'**immediato entroterra**. Sono storie di attimi, di scelte passate che segnano il presente in cui viviamo: le STORIE DI SANT'ILARIO sono immancabilmente le **nostre**.
@@ -23,12 +23,6 @@ Che siano passati mille o anche solo dieci anni, ci sono cose di NOI che possiam
 Le NARRAZIONI presentate in questo blog-site vogliono essere **partecipative**. D'altra si tratta di qualcosa insito nelle nostre radici. Se si pensa alla Cultura Orale Greca, infatti, il narratore non raccontava da solo una storia, ma veniva aiutato dai partecipanti, con la voce, attraverso il canto… Si trattava della forza della TRADIZIONE, un mezzo di **comunicazione** fortissimo.
 {: style="text-align: justify"}
 
-
-
-
-
-
-<a href="https://books.google.it/books/about/Cultura_orale_e_civilt%C3%A0_della_scrittura.html?id=q0mjQwAACAAJ&redir_esc=y" target="_blank">E.A. Havelock 2019, Cultura orale e civiltà della scrittura </a>
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
