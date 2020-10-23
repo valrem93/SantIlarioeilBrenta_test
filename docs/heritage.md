@@ -14,7 +14,7 @@ Come **\#TEAM** di ricerca (qui link team) siamo giunti a lavorare sul sito di S
 
 foto qui
 
-Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata:
+Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: {: style="text-align: justify"}
 
 1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia;
 
@@ -30,7 +30,8 @@ I nostri recenti studi dimostrano che qualunque periodo si prenda in considerazi
 
 [**Paesaggi Artificiali a Venezia**](https://www.insegnadelgiglio.it/prodotto/paesaggi-artificiali-a-venezia/), parla di proprio questo.
 
-foto libro qui
+![jekyll template mediumish]({{site.baseurl}}/assets/images/libro2017.jpg)
+
 
 OBIETTIVI
 =========
