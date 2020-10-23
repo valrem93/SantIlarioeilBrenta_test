@@ -37,7 +37,7 @@ Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una c
 
 foto passeggiata
 
-![](theme2)
+![prova](assets/theme2.jpg)
 
 STRATEGIE DIGITALI
 ==================
