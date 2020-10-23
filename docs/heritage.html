@@ -49,7 +49,10 @@ o meglio del paesaggio, così come inteso nella Convenzione del 2000 e poi con l
 
 <p>foto passeggiata </p>
 
-<p><img src="theme2.jpg" alt="foo" title="foo text description" /></p>prova
+<figure class="image">
+  <img src="{{ theme2.jpg }}" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
 
 
 
