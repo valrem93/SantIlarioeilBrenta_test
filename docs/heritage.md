@@ -3,7 +3,7 @@ layout: page
 title: Heritage
 comments: true
 ---
-qui foto
+
 
 MOTIVAZIONI
 ===========
@@ -11,16 +11,13 @@ MOTIVAZIONI
 Come **\#TEAM** di ricerca (qui link team) siamo giunti a lavorare sul sito di Sant'Ilario sul territorio di Mira molti anni fa perché le fonti parlavano di un monastero proprio nell’entroterra, un vero distaccamento diretto del centro di potere che gravitava intorno al bacino di San Marco, ancora quando **\#VENEZIA** non era la nostra Venezia… un luogo fondamentale per la ricerca archeologica, storica e delle **\#ORIGINI** di una grande città.
 {: style="text-align: justify"}
 
-
 foto qui
 
-Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: {: style="text-align: justify"}
-
+Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: 
+{: style="text-align: justify"}
 1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia;
 
 2) gran parte di quella grande e bella chiesa è stata smantellata in antico, poi l’area livellata ed infine usata come cava fino agli anni ’70 del secolo scorso.
-
-foto qui
 
 A volte queste problematiche ti spingono ad allargare le tue **\#RICERCHE**, a indagare la complessità di un territorio in tutta la sua **\#TOTALITA'**, la sua evoluzione, può spingerti oltre i limiti e capire paesaggi più vasti. Il territorio di oggi è davvero completamente trasformato, bonificato e reso artificiale.
 
@@ -42,9 +39,7 @@ Come valorizzare la **\#COMPLESSITA'**, come sensibilizzare le persone verso la 
 
 Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
 
-foto passeggiata
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/passeggiata.jpg)
 
 STRATEGIE DIGITALI
 ==================
