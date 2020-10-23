@@ -1,10 +1,16 @@
---- layout: page title: Heritage ---
+---
+layout: page
+title: Heritage
+comments: true
+---
 qui foto
 
 MOTIVAZIONI
 ===========
 
 Come **\#TEAM** di ricerca (qui link team) siamo giunti a lavorare sul sito di Sant'Ilario sul territorio di Mira molti anni fa perché le fonti parlavano di un monastero proprio nell’entroterra, un vero distaccamento diretto del centro di potere che gravitava intorno al bacino di San Marco, ancora quando **\#VENEZIA** non era la nostra Venezia… un luogo fondamentale per la ricerca archeologica, storica e delle **\#ORIGINI** di una grande città.
+{: style="text-align: justify"}
+
 
 foto qui
 
@@ -37,7 +43,7 @@ Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una c
 
 foto passeggiata
 
-![prova](assets/theme2.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
 
 STRATEGIE DIGITALI
 ==================
