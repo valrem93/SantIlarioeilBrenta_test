@@ -11,7 +11,7 @@ MOTIVAZIONI
 Come **\#TEAM** di ricerca (qui link team) siamo giunti a lavorare sul sito di Sant'Ilario sul territorio di Mira molti anni fa perché le fonti parlavano di un monastero proprio nell’entroterra, un vero distaccamento diretto del centro di potere che gravitava intorno al bacino di San Marco, ancora quando **\#VENEZIA** non era la nostra Venezia… un luogo fondamentale per la ricerca archeologica, storica e delle **\#ORIGINI** di una grande città.
 {: style="text-align: justify"}
 
-foto qui
+![jekyll template mediumish]({{site.baseurl}}/assets/images/heritage.jpg)
 
 Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: 
 {: style="text-align: justify"}
