@@ -18,13 +18,13 @@ Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti 
 1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia; 
 2) gran parte di quella grande e bella chiesa è stata smantellata in antico, poi l’area livellata ed infine usata come cava fino agli anni ’70 del secolo scorso.
 
-A volte queste problematiche ti spingono ad allargare le tue **\#RICERCHE**, a indagare la complessità di un territorio in tutta la sua **\#TOTALITA'**, la sua evoluzione, può spingerti oltre i limiti e capire paesaggi più vasti. Il territorio di oggi è davvero completamente trasformato, bonificato e reso artificiale.
+A volte queste 'problematiche' ti spingono ad allargare le tue **\#RICERCHE**, a indagare la complessità di un territorio in tutta la sua **\#TOTALITA'**, la sua evoluzione, può spingerti oltre i limiti e capire paesaggi più vasti. Il territorio di oggi è davvero completamente trasformato, bonificato e reso artificiale.
 {: style="text-align: justify"}
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/marghera.jpg)
 
 I nostri recenti studi dimostrano che qualunque periodo si prenda in considerazione, la storia di quest'area è connotata da un inscindibile **\#LEGAME** tra **\#UOMO** e **\#AMBIENTE**, proprio come oggi. **\#NEWTON** aveva ragione quando diceva che ad ogni azione corrisponde una reazione uguale e contraria. Ciò che è straordinario è che stiamo parlando dello stesso luogo scelto dal **\#PALLADIO** per costruire una delle sue magnifiche ville, **\#VILLA FOSCARI** e che quasi a contrasto oggi tiene sullo sfondo uno tra i più grandi **\#POLI INDUSTRIALI** del Nord-Est e alle spalle di tutto, la causa di tutto: VENEZIA e la sua **\#SALVAGUARDIA**.
-
+{: style="text-align: justify"}
 [**Paesaggi Artificiali a Venezia**](https://www.insegnadelgiglio.it/prodotto/paesaggi-artificiali-a-venezia/), parla di proprio questo.
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/libro2017.jpg)
@@ -34,11 +34,9 @@ OBIETTIVI
 =========
 
 Come valorizzare la **\#COMPLESSITA'**, come sensibilizzare le persone verso la comprensione delle particolari caratteristiche del paesaggio? Come donare un'**\#IDENTITA'**, innanzitutto **\#VISIVA** al **\#PATRIMONIO \#CULTURALE** del territorio, o meglio del paesaggio, così come inteso nella Convenzione del 2000 e poi con la ratifica del 2006:
-
-“…una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall'azione di fattori naturali e/o umani e dalle loro interrelazioni…”.
-
+_“…una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall'azione di fattori naturali e/o umani e dalle loro interrelazioni…”._
 Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
-
+{: style="text-align: justify"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/passeggiata.jpg)
 
 STRATEGIE DIGITALI
