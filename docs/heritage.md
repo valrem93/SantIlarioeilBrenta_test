@@ -44,9 +44,9 @@ STRATEGIE DIGITALI
 
 In risposta a queste esigenze le **\#INNOVAZIONI \#DIGITALI** sono lo strumento ideale per la **\#COMUNICAZIONE**. La tecnologia immersiva, ad esempio, può risvegliare la **\#CREATIVITA'** individuale e l’immaginario collettivo del pubblico, traducendo le informazioni, **\#DATA**, di alto livello scientifico in valori, per generare una forma di conoscenza semplificata e assolutamente dinamica, non lineare.
 Siamo quindi lontani dalla ricostruzione virtuale. Abbiamo un territorio stravolto, reso **\#INVISIBILE**, ma degno di ospitare i più grandi **\#ARTISTI** e **\#LETTERATI** della storia, la **\#RIVIERA del \#BRENTA**.
-
 Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il generatore della storia, il suo meccanismo, il suo funzionamento. E’ come avere il diario di Anna Frank, una storia scritta da chi la stava vivendo, una percezione non filtrata di quello che è successo.
 {: style="text-align: justify"}
+
 foto QUI
 
 E’ il momento di concentrarci sui tre **\#MOCKUP**:
