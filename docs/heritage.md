@@ -14,12 +14,14 @@ Come **\#TEAM** di ricerca (qui link team) siamo giunti a lavorare sul sito di S
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/heritage.jpg)
 
 Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: 
+
 1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia;
 2) gran parte di quella grande e bella chiesa è stata smantellata in antico, poi l’area livellata ed infine usata come cava fino agli anni ’70 del secolo scorso.
+
 A volte queste problematiche ti spingono ad allargare le tue **\#RICERCHE**, a indagare la complessità di un territorio in tutta la sua **\#TOTALITA'**, la sua evoluzione, può spingerti oltre i limiti e capire paesaggi più vasti. Il territorio di oggi è davvero completamente trasformato, bonificato e reso artificiale.
 {: style="text-align: justify"}
 
-foto qui con marghera sfondo
+![jekyll template mediumish]({{site.baseurl}}/assets/images/marghera.jpg)
 
 I nostri recenti studi dimostrano che qualunque periodo si prenda in considerazione, la storia di quest'area è connotata da un inscindibile **\#LEGAME** tra **\#UOMO** e **\#AMBIENTE**, proprio come oggi. **\#NEWTON** aveva ragione quando diceva che ad ogni azione corrisponde una reazione uguale e contraria. Ciò che è straordinario è che stiamo parlando dello stesso luogo scelto dal **\#PALLADIO** per costruire una delle sue magnifiche ville, **\#VILLA FOSCARI** e che quasi a contrasto oggi tiene sullo sfondo uno tra i più grandi **\#POLI INDUSTRIALI** del Nord-Est e alle spalle di tutto, la causa di tutto: VENEZIA e la sua **\#SALVAGUARDIA**.
 
