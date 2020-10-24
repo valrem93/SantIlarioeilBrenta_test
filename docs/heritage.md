@@ -8,7 +8,7 @@ comments: true
 MOTIVAZIONI
 ===========
 
-Come [**\#TEAM** di ricerca](http://www.rmoa.unina.it/3166/1/474-1647-2-PB.pdf/) siamo giunti a lavorare sul sito di Sant'Ilario sul territorio di Mira molti anni fa perché le fonti parlavano di un monastero proprio nell’entroterra, un vero distaccamento diretto del centro di potere che gravitava intorno al bacino di San Marco, ancora quando **\#VENEZIA** non era la nostra Venezia… un luogo fondamentale per la ricerca archeologica, storica e delle **\#ORIGINI** di una grande città. 
+Come [**\#TEAM** di ricerca](https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-204-8/archeologia-per-la-storia-di-un-mito/) siamo giunti a lavorare sul sito di Sant'Ilario sul territorio di Mira molti anni fa perché le fonti parlavano di un monastero proprio nell’entroterra, un vero distaccamento diretto del centro di potere che gravitava intorno al bacino di San Marco, ancora quando **\#VENEZIA** non era la nostra Venezia… un luogo fondamentale per la ricerca archeologica, storica e delle **\#ORIGINI** di una grande città. 
 {: style="text-align: justify"}
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/heritage.jpg)
