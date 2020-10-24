@@ -15,8 +15,7 @@ Come [**\#TEAM** di ricerca](http://www.rmoa.unina.it/3166/1/474-1647-2-PB.pdf/)
 
 Ma come si fa se si inizia a scavare in un’area in cui, certo, non ti aspetti di trovare evidenze monumentali, ma almeno delle strutture coerenti con la chiesa di quel **\#MONASTERO**. Come fai, tu archeologo, quando capisci che la chiesa del monastero, che doveva essere grande quanto la basilica di Aquileia, con quei **\#MOSAICI** e con quelle architetture per intenderci, è stata: 
 
-1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia;
-
+1) coinvolta dall’arrivo di un nuovo corso d’acqua, il **\#BRENTA**, in quei territori per agevolare Venezia, rendendo un’area produttiva e coltivata completamente inospitale, e contribuendo al trasferimento dei monaci a Venezia; {: style="text-align: justify"}
 2) gran parte di quella grande e bella chiesa è stata smantellata in antico, poi l’area livellata ed infine usata come cava fino agli anni ’70 del secolo scorso.
 
 A volte queste problematiche ti spingono ad allargare le tue **\#RICERCHE**, a indagare la complessità di un territorio in tutta la sua **\#TOTALITA'**, la sua evoluzione, può spingerti oltre i limiti e capire paesaggi più vasti. Il territorio di oggi è davvero completamente trasformato, bonificato e reso artificiale.
