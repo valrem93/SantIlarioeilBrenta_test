@@ -53,7 +53,7 @@ E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/w
 1) Partiamo dal più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
 {: style="text-align: justify"}
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/demo-margine.mp4)
 
 2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
 {: style="text-align: justify"}
