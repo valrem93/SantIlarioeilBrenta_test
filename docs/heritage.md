@@ -34,7 +34,7 @@ OBIETTIVI
 =========
 
 Come valorizzare la **\#COMPLESSITA'**, come sensibilizzare le persone verso la comprensione delle particolari caratteristiche del paesaggio? Come donare un'**\#IDENTITA'**, innanzitutto **\#VISIVA** al **\#PATRIMONIO \#CULTURALE** del territorio, o meglio del paesaggio, così come inteso nella nella Convenzione Europea del Paesaggio del 20 ottobre del 2000 (traduzione contenuta nella legge di ratifica ed esecuzione della Convenzione del 9 gennaio 2006 n. 14): _“una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall'azione di fattori naturali e/o umani e dalle loro interrelazioni”_, da cui deriva che i Beni Paesaggistici, categoria in vigore nel Codice dei Beni Culturali e del Paesaggio (artt. 2 e 134 del d.lgs. 22 gennaio 2004 n. 42, come modificato dal d.lgs. 24 marzo 2006 n. 157 e dal d.lgs. 26 marzo 2008 n. 63), costituiscono una componente irrinunciabile per la valorizzazione del Patrimonio Culturale. 
-Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
+Come lasciare un’ **\#EREDITA'**, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
 {: style="text-align: justify"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/passeggiata.jpg)
 
@@ -51,18 +51,22 @@ foto QUI
 E’ il momento di concentrarci sui tre **\#MOCKUP**:
 
 1) Partiamo dal più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
+{: style="text-align: justify"}
 
-foto QUI link demo1
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png)
 
 2)Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
+{: style="text-align: justify"}
 
 foto QUI link demo2
 
 3) L'ultimo demo rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO tra \#PASSATO e \#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
+{: style="text-align: justify"}
 
 foto QUI link demo3
 
 Per concludere, i 3 mockup insieme raccontano una **\#STORIA**. Ed è importantissimo perché dobbiamo ricordarci che le idee vanno, le storie restano e poi perchè così raccontiamo anche una storia diversa da quella scritta sui libri, è quello che fa la ricerca d’altra parte. D'altra parte per spodestare una storia ci vuole solo un’altra storia.
+{: style="text-align: justify"}
 
 [Scopri di più](https://www.youtube.com/watch?v=H1UhlMT0j4c)
 
