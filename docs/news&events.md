@@ -5,6 +5,7 @@ comments: true
 ---
 
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event1.jpg)
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event2.jpg)
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event3.png)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event1.png)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event2.png)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event3.jpg)
+
