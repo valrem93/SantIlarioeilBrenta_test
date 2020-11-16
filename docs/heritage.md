@@ -58,12 +58,12 @@ E’ il momento di concentrarci sui tre **\#MOCKUP**:
 2)Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
 {: style="text-align: justify"}
 
-foto QUI link demo2
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png)
 
 3) L'ultimo demo rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO tra \#PASSATO e \#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
 {: style="text-align: justify"}
 
-foto QUI link demo3
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png)
 
 Per concludere, i 3 mockup insieme raccontano una **\#STORIA**. Ed è importantissimo perché dobbiamo ricordarci che le idee vanno, le storie restano e poi perchè così raccontiamo anche una storia diversa da quella scritta sui libri, è quello che fa la ricerca d’altra parte. D'altra parte per spodestare una storia ci vuole solo un’altra storia.
 {: style="text-align: justify"}
