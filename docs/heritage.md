@@ -65,6 +65,10 @@ E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/w
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png)
 
+<video width="320" height="240" controls>
+    <source src="video-margine.mp4" type="video/mp4">
+</video>
+
 Per concludere, i 3 mockup insieme raccontano una **\#STORIA**. Ed è importantissimo perché dobbiamo ricordarci che le idee vanno, le storie restano e poi perchè così raccontiamo anche una storia diversa da quella scritta sui libri, è quello che fa la ricerca d’altra parte. D'altra parte per spodestare una storia ci vuole solo un’altra storia.
 {: style="text-align: justify"}
 
