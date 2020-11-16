@@ -33,8 +33,7 @@ I nostri recenti studi dimostrano che qualunque periodo si prenda in considerazi
 OBIETTIVI
 =========
 
-Come valorizzare la **\#COMPLESSITA'**, come sensibilizzare le persone verso la comprensione delle particolari caratteristiche del paesaggio? Come donare un'**\#IDENTITA'**, innanzitutto **\#VISIVA** al **\#PATRIMONIO \#CULTURALE** del territorio, o meglio del paesaggio, così come inteso nella Convenzione del 2000 e poi con la ratifica del 2006:
-_“…una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall'azione di fattori naturali e/o umani e dalle loro interrelazioni…”._
+Come valorizzare la **\#COMPLESSITA'**, come sensibilizzare le persone verso la comprensione delle particolari caratteristiche del paesaggio? Come donare un'**\#IDENTITA'**, innanzitutto **\#VISIVA** al **\#PATRIMONIO \#CULTURALE** del territorio, o meglio del paesaggio, così come inteso nella nella Convenzione Europea del Paesaggio del 20 ottobre del 2000 (traduzione contenuta nella legge di ratifica ed esecuzione della Convenzione del 9 gennaio 2006 n. 14): _“una determinata parte di territorio, così come è percepita dalle popolazioni, il cui carattere deriva dall'azione di fattori naturali e/o umani e dalle loro interrelazioni”_, da cui deriva che i Beni Paesaggistici, categoria in vigore nel Codice dei Beni Culturali e del Paesaggio (artt. 2 e 134 del d.lgs. 22 gennaio 2004 n. 42, come modificato dal d.lgs. 24 marzo 2006 n. 157 e dal d.lgs. 26 marzo 2008 n. 63), costituiscono una componente irrinunciabile per la valorizzazione del Patrimonio Culturale. 
 Come lasciare un’**\#EREDITA'**, come raccontare il passato, come creare una comunità di persone in grado di viverlo?
 {: style="text-align: justify"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/passeggiata.jpg)
