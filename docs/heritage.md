@@ -48,7 +48,7 @@ Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il g
 
 
 
-E’ il momento di concentrarci sui tre **\#MOCKUP**:
+E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/watch?v=H1UhlMT0j4c):
 
 1) Partiamo dal più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
 {: style="text-align: justify"}
@@ -68,6 +68,6 @@ E’ il momento di concentrarci sui tre **\#MOCKUP**:
 Per concludere, i 3 mockup insieme raccontano una **\#STORIA**. Ed è importantissimo perché dobbiamo ricordarci che le idee vanno, le storie restano e poi perchè così raccontiamo anche una storia diversa da quella scritta sui libri, è quello che fa la ricerca d’altra parte. D'altra parte per spodestare una storia ci vuole solo un’altra storia.
 {: style="text-align: justify"}
 
-[Scopri di più](https://www.youtube.com/watch?v=H1UhlMT0j4c)
+[Scopri di più](https://www.marketingarena.it/2020/01/22/heritage-for-mankind-i-dati-di-ricerca-alla-portata-di-tutti/)
 
 
