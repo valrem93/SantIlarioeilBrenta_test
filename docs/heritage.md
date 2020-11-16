@@ -55,12 +55,12 @@ E’ il momento di concentrarci sui tre **\#MOCKUP**:
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png)
 
-2)Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
+2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
 {: style="text-align: justify"}
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png)
 
-3) L'ultimo demo rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO tra \#PASSATO e \#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
+3) L'ultimo demo rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO** tra **\#PASSATO** e **\#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
 {: style="text-align: justify"}
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png)
