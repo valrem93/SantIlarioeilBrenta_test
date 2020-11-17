@@ -46,15 +46,17 @@ Siamo quindi lontani dalla ricostruzione virtuale. Abbiamo un territorio stravol
 Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il generatore della storia, il suo meccanismo, il suo funzionamento. E’ come avere il diario di Anna Frank, una storia scritta da chi la stava vivendo, una percezione non filtrata di quello che è successo.
 {: style="text-align: justify"}
 
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png#center){:height="450px" width="450px"}
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png){:height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1A.png){:height="450px" width="450px"}
+
+
 
 
 E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/watch?v=H1UhlMT0j4c):
 
-1) Partiamo dal  [demo] (https://www.youtube.com/watch?v=hDKI1UnjS2Q&feature=emb_title) più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
+1) Partiamo dal  [demo](https://www.youtube.com/watch?v=hDKI1UnjS2Q&feature=emb_title) più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
 {: style="text-align: justify"}
 
 
