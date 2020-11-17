@@ -46,9 +46,11 @@ Siamo quindi lontani dalla ricostruzione virtuale. Abbiamo un territorio stravol
 Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il generatore della storia, il suo meccanismo, il suo funzionamento. E’ come avere il diario di Anna Frank, una storia scritta da chi la stava vivendo, una percezione non filtrata di quello che è successo.
 {: style="text-align: justify"}
 
+<p align="center">
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png){:height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="450px" width="450px"}
+</p>
 
 E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/watch?v=H1UhlMT0j4c):
 
