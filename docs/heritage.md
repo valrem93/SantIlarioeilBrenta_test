@@ -48,7 +48,7 @@ Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il g
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png){:height="100px" width="100px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="100px" width="100px"}
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="100px" width="100px"}.
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="100px" width="100px"}
 
 E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/watch?v=H1UhlMT0j4c):
 
