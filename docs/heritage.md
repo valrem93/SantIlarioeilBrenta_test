@@ -46,28 +46,22 @@ Siamo quindi lontani dalla ricostruzione virtuale. Abbiamo un territorio stravol
 Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il generatore della storia, il suo meccanismo, il suo funzionamento. E’ come avere il diario di Anna Frank, una storia scritta da chi la stava vivendo, una percezione non filtrata di quello che è successo.
 {: style="text-align: justify"}
 
-
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png){:height="36px" width="36px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="36px" width="36px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="36px" width="36px"}.
 
 E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/watch?v=H1UhlMT0j4c):
 
-1) Partiamo dal più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
+1) Partiamo dal  [demo] (https://www.youtube.com/watch?v=hDKI1UnjS2Q&feature=emb_title) più semplice per definire un concetto, lavoriamo sulla mentalità. Secoli fa Aristotele diceva che l’anima non pensa mai senza immagini. Oggi sono le ricerche nel campo della **\#NEUROSCIENZA** che lo dicono e mostrano che le persone ricordano di più ciò che vedono e vi reagiscono anche in modo più efficace: vedere per credere. Gli **\#STIMOLI** positivi rinforzano il comportamento, mentre quelli negativi te lo cambiano. Il cambiamento di **\#MENTALITA'** può essere anche rapido e originato spontaneamente dentro ognuno di noi. Quindi perché non stimolare il senso di **\#APPARTENENZA** ad un territorio con questa strategia.
 {: style="text-align: justify"}
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png)
 
-2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo prototipo. Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
+2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo  [demo] (https://www.youtube.com/watch?v=W8ebZLbcBCA&feature=emb_title). Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
 {: style="text-align: justify"}
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png)
 
-3) L'ultimo demo rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO** tra **\#PASSATO** e **\#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
+3) L'ultimo [demo](https://www.youtube.com/watch?v=hBOqiGFb5lU&feature=emb_title) rappresenta la nostra condizione attuale. Qui sono i dettagli a fare la differenza, a dare un valore aggiunto al **\#COLLEGAMENTO** tra **\#PASSATO** e **\#PRESENTE**. Sono stati utilizzati dati storici, cartografici, dati dai sondaggi geologici, dati di C14, il lavoro di una vita di alcune persone!
 {: style="text-align: justify"}
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png)
-
-<video width="320" height="240" controls>
-    <source src="video-margine.mp4" type="video/mp4">
-</video>
 
 Per concludere, i 3 mockup insieme raccontano una **\#STORIA**. Ed è importantissimo perché dobbiamo ricordarci che le idee vanno, le storie restano e poi perchè così raccontiamo anche una storia diversa da quella scritta sui libri, è quello che fa la ricerca d’altra parte. D'altra parte per spodestare una storia ci vuole solo un’altra storia.
 {: style="text-align: justify"}
