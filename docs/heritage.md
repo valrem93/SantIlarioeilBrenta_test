@@ -50,7 +50,7 @@ Grazie alla ricerca abbiamo però il copione che produce gli eventi e cioè il g
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup3.png){:height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup2.png){:height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1.png){:height="450px" width="450px"}
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1A.png){:height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/mockup1A.jpg){:height="450px" width="450px"}
 
 
 
