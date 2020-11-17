@@ -56,7 +56,7 @@ E’ il momento di concentrarci sui tre [**\#MOCKUP**](https://www.youtube.com/w
 {: style="text-align: justify"}
 
 
-2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo  [demo] (https://www.youtube.com/watch?v=W8ebZLbcBCA&feature=emb_title). Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
+2) Se continuiamo a viaggiare nella mentalità delle persone arriviamo al secondo  [demo](https://www.youtube.com/watch?v=W8ebZLbcBCA&feature=emb_title). Questa volta la demo è per trasmettere un **\#VALORE**. Pensate se addirittura a ogni linea che si espande in altezza corrispondesse davvero un valore, un dato, creando un semplice algoritmo, un’equazione con valori basati su livelli idrometrici, percentuali di innalzamento del livello del mare, tassi di sprofondamento del terreno, come se tutto fosse calcolato e non astratto. Oltre a vedere il colore dell’acqua qui avresti addirittura il risultato di una vera espressione matematica, e quindi la vera **\#ESSENZA** di un territorio.
 {: style="text-align: justify"}
 
 
