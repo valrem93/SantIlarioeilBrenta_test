@@ -6,8 +6,7 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 featured: true
 ---
- qui immagini slides
- 
+  
 
 ## Lo scavo: dove, quando e perché
 
