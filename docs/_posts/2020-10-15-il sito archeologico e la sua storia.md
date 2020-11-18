@@ -24,7 +24,7 @@ Dal punto di vista cronologico, le tracce più antiche relative ad un’occupazi
 ## Se cerchi il IX secolo non lo trovi!
 {: style="text-align: justify"}
 Proprio il IX secolo, l’epoca della celebre fondazione ducale, risulta particolarmente evanescente nelle stratigrafie archeologiche: nessun contesto tra quelli indagati infatti è risultato chiaramente attribuibile a questo periodo. L’attività degli impianti di produzione della calce risulta infatti o nettamente precedente (UTS 1000, fase 3) o successiva di almeno un secolo (UTS 1000, fase 1). Si tratta comunque di un momento in cui il cenobio ilariano è già attivo da decenni e controlla saldamente il territorio circostante. In altre parole, lo scavo non si è spinto sino ad intercettare i livelli relativi al primo e più antico insediamento monastico che, se non definitivamente sbancati dalle bonifiche del XIX secolo, giacciono ancora al di sotto delle stratigrafie già indagate.
-
+{: style="text-align: justify"}
 Le evidenze materiali altomedievali sono per lo più ascrivibili al X secolo. In questo momento compaiono le prime strutture in muratura dell’area centrale (UTS 4000, fase 2). L’organizzazione del complesso monastico è testimoniata anche dall’allestimento di una costruzione in materiale deperibile dove prima sorgevano gli impianti produttivi (UTS 1000, fase 2). In entrambi i casi, non si tratta sicuramente di ambienti di pregio. Quindi, anche se pertinenti ad uno dei periodi di grande splendore di Sant’Ilario, sono state intercettate solo delle aree marginali o di servizio dell’impianto monastico. Anche in questa fase la struttura del cenobio vera e propria rimane oscura nella sua impostazione planimetrica, nella sua estensione e nell’ubicazione del suo cuore religioso.
 {: style="text-align: justify"}
 ## E ... ora largo alla riorganizzazione! il rinvenimento delle sepolture privilegiate
@@ -34,7 +34,7 @@ Solo a cavallo tra X e XI secolo, in seguito ad una radicale ed estesa riorganiz
 ## Infine, spazio al sepolcreto
 {: style="text-align: justify"}
 Se le sepolture strutturate sembrano essere state allestite coerentemente con i perimetrali in muratura all’interno di uno spazio circoscritto, è più difficile stabilire quando vengano realizzate le sepolture in nuda terra, attestate successivamente in quasi tutta l’area anticamente proprietà del cenobio ilariano. Anche se non è possibile scandire una cronologia sepoltura per sepoltura, l’organizzazione delle inumazioni e i materiali datanti suggeriscono che l’area fu utilizzata come sepolcreto dall’X-XI secolo, sino almeno al basso Medioevo in particolare nel settore meridionale (sud di UTS 4000, fase 1), dove sono documentate inumazioni sino al XIII-XIV secolo.
-
+{: style="text-align: justify"}
 ## Sant’Ilario: un riferimento da sempre per la comunità
 {: style="text-align: justify"}
 In questo secondo momento quindi sembra che un’intera comunità, per la sepoltura dei propri morti, faccia riferimento a Sant’Ilario, che almeno dalla seconda metà del Duecento non ospitava più una comunità religiosa. Alcuni elementi topografici contribuiscono a evidenziare la grande estensione dell’area cimiteriale, a testimonianza che l’insediamento in quest’area non fosse stato necessariamente circoscritto ad un’unica zona, ma presentasse una complessità e un’articolazione che sfuggono alle attuali conoscenze.
