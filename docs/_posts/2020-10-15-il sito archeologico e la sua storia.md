@@ -15,7 +15,7 @@ featured: true
 Durante l’estate del 2010 un team di archeologi dell’Università Ca’ Foscari di Venezia (Dipartimento di Studi Umanistici) ha svolto una campagna di scavo in quel di Mira, sotto la responsabilità scientifica del Prof. Sauro Gelichi, ordinario di Archeologia Medievale. L’obiettivo principale dell’indagine era l’apertura di diversi sondaggi esplorativi, per valutare l’estensione e soprattutto la cronologia del patrimonio archeologico sepolto. I lavori sono stati intrapresi entro l’area in cui le ricognizioni di superficie avevano riconosciuto una grande concentrazione di materiali con cronologia altomedievale. Sono stati aperti sette diversi saggi, denominati UTS (Unità Topografica di Scavo). Tra le unità più significative vi sono l’UTS 1000, in cui è stato riconosciuto un impianto produttivo di lunga durata (VII-VIII/IX-X secolo d.C.) per la produzione e lavorazione della calce e l’UTS 4000 caratterizzata da interventi di distruzione in antico per dare spazio ad una campagna costruttiva su di un livello rialzato con sepolture in casse laterizie. Un luogo che diventerà più tardi un vero e proprio sepolcreto.
 {: style="text-align: justify"}
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/scavo.jpg){:align="center" height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/scavo.jpg)
 
 ## Il Medioevo in un metro o poco più
 {: style="text-align: justify"}
