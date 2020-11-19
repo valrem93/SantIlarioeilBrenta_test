@@ -16,6 +16,7 @@ Durante l’estate del 2010 un team di archeologi dell’Università Ca’ Fosca
 {: style="text-align: justify"}
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/scavo.jpg){:align="center" height="450px" width="450px"}
+
 ## Il Medioevo in un metro o poco più
 {: style="text-align: justify"}
 Gli scavi hanno permesso di precisare due elementi fondamentali. Prima di tutto una scansione cronologica importante delle fasi di occupazione del sito di Sant’Ilario e poi una serie di costruzioni che anche se cronologicamente distanti tra loro, erano impostate spesso sullo stesso piano, corrispondente all’antica pianura. In pratica, dove le sequenze indagate hanno consentito di esaminare un arco cronologico di lunga durata (UTS 1000), gli interventi più recenti sembravano impostarsi direttamente su quelli più antichi, in un areale sempre pianeggiante. Più degno di nota è invece il rialzo (pianificato) intercettato nell’UTS 4000 che segna il passaggio tra la dismissione delle prime strutture altomedievali ed il successivo allestimento dell’area cimiteriale tra X e XI secolo.
