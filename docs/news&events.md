@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News&Events
+title: Open
 comments: true
 ---
 
