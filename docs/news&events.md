@@ -8,11 +8,11 @@ Progetto POR-FSE 2014-2020
 ===========
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event2.png){:align="center" height="450px" width="450px"}
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event3.jpg){:align="center" height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/evento3.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event1.png){:align="center" height="450px" width="450px"}
 Campagna Geoarcheologica 2019
 ===========
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event7.jpg){:align="center" height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event 7.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event8.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event9.jpg){:align="center" height="450px" width="450px"}
 
