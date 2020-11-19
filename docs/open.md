@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open
+title: Be open!
 comments: true
 ---
 
