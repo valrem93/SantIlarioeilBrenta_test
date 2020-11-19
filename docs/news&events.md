@@ -20,11 +20,11 @@ Campagna Geoarcheologica 2019
 Conferenze
 ===========
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event5.jpg){:align="center" height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event13.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event4.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event6.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event12.jpg){:align="center" height="450px" width="450px"}
-![jekyll template mediumish]({{site.baseurl}}/assets/images/event13.jpg){:align="center" height="450px" width="450px"}
+![jekyll template mediumish]({{site.baseurl}}/assets/images/event5.jpg){:align="center" height="450px" width="450px"}
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/event14.jpg){:align="center" height="450px" width="450px"}
 
 Eventi Speciali
