@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Special Editions
+title: Be curious!
 comments: true
 ---
 
