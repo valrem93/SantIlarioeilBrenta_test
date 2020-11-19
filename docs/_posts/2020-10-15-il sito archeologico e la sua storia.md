@@ -7,7 +7,7 @@ image: assets/images/4.jpg
 featured: true
 ---
   
-  <div class="wp-block-jetpack-slideshow aligncenter" data-autoplay="true" data-delay="3" data-effect="fade" data-jetpack-block-initialized="true"><div class="wp-block-jetpack-slideshow_container swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal wp-swiper-initialized" style="cursor: grab;"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper" style="width: 2064px; height: 244px; transition: all 0ms ease 0s;" id="swiper-wrapper-dc2d2110cf80e12a4" aria-live="polite"><li class="wp-block-jetpack-slideshow_slide swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" style="width: 344px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition: all 0ms ease 0s;" aria-hidden="true" role="group" aria-label="1 / 6"><figure>
+  <div class="wp-block-jetpack-slideshow aligncenter" data-autoplay="true" data-delay="3" data-effect="fade" data-jetpack-block-initialized="true"><div class="wp-block-jetpack-slideshow_container swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal wp-swiper-initialized" style="cursor: grab;"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper" style="width: 2064px; height: 244px; transition: all 0ms ease 0s;" id="swiper-wrapper-dc2d2110cf80e12a4" aria-live="polite"><li class="wp-block-jetpack-slideshow_slide swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" style="width: 344px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition: all 0ms ease 0s;" aria-hidden="true" role="group" aria-label="1 / 6"><figure><image: assets/images/4.jpg></figure></li>
   
   
   
