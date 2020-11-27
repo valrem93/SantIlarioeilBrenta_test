@@ -1,6 +1,4 @@
 
---- layout: page title: Heritage ---
-=======
 ---
 layout: page
 title: Heritage
