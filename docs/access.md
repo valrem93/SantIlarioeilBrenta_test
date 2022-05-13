@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Be curious!
+title: Riferimenti bibliografici
 comments: true
 ---
 
-elenco pubblicazioni
+Elenco pubblicazioni
 
 {: style="text-align: justify"}
 
