@@ -2,7 +2,7 @@
 layout: post
 title:  "Il Sito Archeologico e la sua Storia"
 author: EC
-categories: [Jekill,Tutorial]
+categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 featured: true
 ---
