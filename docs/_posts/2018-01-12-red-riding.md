@@ -6,11 +6,12 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+A qualunque scala si prenda in considerazione la storia di questo sito, non si può fare a meno di notare il costante legame del ruolo tra il territorio e i suoi
+cambiamenti all’interno del quadro più vasto delle vicende storiche. 
+Questa complessa relazione è stata analizzata attraverso lo studio del paesaggio antico, esito di fenomeni naturali e interventi antropici, questi
+ultimi strettamente dipendenti dalla funzione economica, politica e sociale, che il territorio in questione assolveva in un determinato periodo storico. In
+altre parole, in un’area costantemente soggetta a cambiamenti come quella di Mira, questa relazione si configura come un’alternanza di reazioni, naturali o
+artificiali, uguali e contrarie. La storia del monastero di Sant’Ilario si è rivelata direttamente legata alle caratteristiche del paesaggio e alla possibilità di sfruttamento che da esso ne derivava. Gli interventi umani, ovvero le trasformazioni che l’uomo ha realizzato
+nei secoli, i cambiamenti dei corsi fluviali e le massicce opere di bonifica hanno a loro volta innescato altri cambiamenti ambientali. Il territorio attuale
+ci tramanda il palinsesto in cui possiamo leggere questi cambiamenti, e i valori espressi dagli stessi uomini, dagli stessi abitanti. Ripensare al legame
+inscindibile, ma combattuto, tra uomo e ambiente in queste aree potrà contribuire a un uso più consapevole del territorio?
