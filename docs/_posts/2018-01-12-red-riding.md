@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Relazione uomo-ambiente"
-author: sal
+author: EC
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
