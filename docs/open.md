@@ -16,7 +16,7 @@ In questo portale abbiamo pensato di:
 3) indicare le informazioni e le azioni non solo con il colore
 4) mantenere il corretto rapporto di contrasto in immagini contenenti testo
 5) offrire delle alternative non solo testuali
-
+{: style="text-align: justify"}
 
 
 Divulgazione
