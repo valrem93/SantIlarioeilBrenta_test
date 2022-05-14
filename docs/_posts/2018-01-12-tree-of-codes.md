@@ -1,18 +1,11 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
+title:  "Il georadar a Sant'Ilario"
+author: EC
 categories: [ Jekyll, tutorial ]
-image: assets/images/2.jpg
+image: assets/images/georadar.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Nel mese di marzo 2020 l’Insegnamento di Archeologia Medievale, in collaborazione con la Soprintendenza Archeologica, ha effettuato la prima indagine geofisica nel sito del monastero dei SS. Ilario e Benedetto a Dogaletto di Mira. Il progetto è stato finanziato dal Comune di Mira. Per l’indagine si è scelto di utilizzare un sistema georadar GPR (Ground Penetrating Radar) 3D MALA MiniMIRA, equipaggiato con 9 antenne schermate a 400MHz, per profondità di esplorazione entro i 3m e per garantire una totale copertura dell’area, realizzando contemporaneamente 8 profili paralleli all’interno di una strisciata di 64 cm . I rilievi sono stati eseguiti mediante l’utilizzo di apposito cart di supporto dell’antenna che è stato agganciato ad una jeep (Figura 1). In questo modo è stato possibile coprire le aree previste in maniera molto veloce rispetto al metodo manuale. In tutto sono stati registrati 100 file di lunghezza variabile, spaziati 64cm. Questa tecnica si è dimostrata l’ideale per indagare sia il sottosuolo sia le strutture in modo non invasivo, utilizzando cioè il fenomeno di riflessione delle onde elettromagnetiche in corrispondenza delle superfici di discontinuità dovute a variazioni di permettività dei materiali investigati. I dati relativi ai rilievi sono stati importati in formato shapefile per essere maneggiati in qualsiasi piattaforma GIS.
 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
