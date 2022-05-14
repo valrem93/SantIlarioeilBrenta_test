@@ -15,3 +15,5 @@ artificiali, uguali e contrarie. La storia del monastero di Sant’Ilario si è 
 nei secoli, i cambiamenti dei corsi fluviali e le massicce opere di bonifica hanno a loro volta innescato altri cambiamenti ambientali. Il territorio attuale
 ci tramanda il palinsesto in cui possiamo leggere questi cambiamenti, e i valori espressi dagli stessi uomini, dagli stessi abitanti. Ripensare al legame
 inscindibile, ma combattuto, tra uomo e ambiente in queste aree potrà contribuire a un uso più consapevole del territorio?
+
+Per maggiori approfondimetni, clicca [qui](http://www.rmoa.unina.it/3166/1/474-1647-2-PB.pdf).
