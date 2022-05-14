@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Accessibilità e Public Engagement
+title: Accessibilità 
 comments: true
 ---
-Nel 2018, con il Decreto legislativo n. 106 che modifica ed aggiorna la Legge n.4/2004, l’Italia ha recepito la Direttiva UE 2016/2102, rivolta a migliorare l’accessibilità dei siti web e delle app mobili nel settore pubblico di ciascun Stato Membro. In attuazione della Direttiva europea L’ Agenzia per L’Italia Digitale (AGID) ha emanato le Linee Guida sull’Accessibilità degli strumenti informatici, in vigore dal 10 gennaio 2020, che indirizzano la Pubblica Amministrazione all’erogazione di servizi sempre più accessibili.
+Nel 2018, con il Decreto legislativo n. 106 che modifica ed aggiorna la Legge n.4/2004, l’Italia ha recepito la Direttiva UE 2016/2102, rivolta a migliorare l’accessibilità dei siti web e delle app mobili nel settore pubblico di ciascun Stato Membro. In attuazione della Direttiva europea L’ Agenzia per L’Italia Digitale (AGID) ha emanato le [Linee Guida sull’Accessibilità](https://www.agid.gov.it/it/design-servizi/accessibilita/linee-guida-accessibilita-strumenti-informatici) degli strumenti informatici, in vigore dal 10 gennaio 2020, che indirizzano la Pubblica Amministrazione all’erogazione di servizi sempre più accessibili.
 
 Lo sapevi che…
 
@@ -11,12 +11,12 @@ Il riferimento tecnico per il WEB all’interno della norma UNI EN 301549:2018, 
 
 In questo portale abbiamo pensato di:
 
-sottotitolare tutti i video in tempo reale
-evitare di inserire immagini con movimenti veloci
-indicare le informazioni e le azioni non solo con il colore
-mantenere il corretto rapporto di contrasto in immagini contenenti testo
-offrire delle alternative non solo testuali
-Usabilità, un progetto che fa degli utenti i protagonisti
+1) sottotitolare tutti i video in tempo reale
+2) evitare di inserire immagini con movimenti veloci
+3) indicare le informazioni e le azioni non solo con il colore
+4) mantenere il corretto rapporto di contrasto in immagini contenenti testo
+5) offrire delle alternative non solo testuali
+
 
 
 Divulgazione
