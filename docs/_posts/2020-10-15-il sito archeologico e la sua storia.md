@@ -2,7 +2,7 @@
 layout: post
 title:  "Il Sito Archeologico e la sua Storia"
 author: EC
-categories: [Archeologia, storia]
+categories: [Jekill,Tutorial]
 image: assets/images/4.jpg
 featured: true
 ---
