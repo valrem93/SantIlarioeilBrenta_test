@@ -23,6 +23,9 @@ territori/costruire identità: lagune archeologiche a confronto tra antichità
 e medioevo», sezione monogr., Reti Medievali Rivista, 16(2), 1-48.
 {: style="text-align: justify"}
 
+Moine, C; Corrò, E.; Primon, S. (2017). [Paesaggi artificiali a Venezia. Archeologia e geologia nelle terre del monastero di Sant'Ilario tra alto Medioevo ed Età Moderna](https://www.insegnadelgiglio.it/prodotto/paesaggi-artificiali-a-venezia/). Firenze
+{: style="text-align: justify"}
+
 Corrò, E.; Moine, C.; Primon, S. (2018). «[Setting the Scene: The Role of Sant’Ilario
 Monastery in Early Medieval Venice in light of recent Landscape Studies](https://brill.com/view/book/edcoll/9789004353619/B9789004353619_007.xml)».
 Gelichi, S.; Gasparri, S. (eds), Venice and Its Neighbours from the 8th to 11th
@@ -38,5 +41,5 @@ Summertown, 18-37.
 
 Corrò, E.; Piovan, S.; Primon, S.; Mozzi, P. (2021). «[Dinamiche fluviali e condizionamenti insediativi nel paesaggio di pianura](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-480-6/)», in Corrò, E.; Vinci, G. (a cura di), «Palinsesti programmati nell’Alto Adriatico?
 Decifrare, conservare, pianificare e comunicare il paesaggio. Atti della giornata di Studi (Venezia, 18 aprile 2019)». Venezia, 73-108.
-
+{: style="text-align: justify"}
 
