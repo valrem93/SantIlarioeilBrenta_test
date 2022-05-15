@@ -36,4 +36,7 @@ in Post Antiquity. In collaboration with E. Corrò and M. Castro Priego.
 Summertown, 18-37. 
 {: style="text-align: justify"}
 
+Corrò, E.; Piovan, S.; Primon, S.; Mozzi, P. (2021). «[Dinamiche fluviali e condizionamenti insediativi nel paesaggio di pianura](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-480-6/)», in Corrò, E.; Vinci, G. (a cura di), «Palinsesti programmati nell’Alto Adriatico?
+Decifrare, conservare, pianificare e comunicare il paesaggio. Atti della giornata di Studi (Venezia, 18 aprile 2019)». Venezia, 73-108.
+
 
