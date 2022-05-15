@@ -12,8 +12,8 @@ Questa complessa relazione è stata analizzata attraverso lo studio del paesaggi
 ultimi strettamente dipendenti dalla funzione economica, politica e sociale, che il territorio in questione assolveva in un determinato periodo storico. In
 altre parole, in un’area costantemente soggetta a cambiamenti come quella di Mira, questa relazione si configura come un’alternanza di reazioni, naturali o
 artificiali, uguali e contrarie. La storia del monastero di Sant’Ilario si è rivelata direttamente legata alle caratteristiche del paesaggio e alla possibilità di sfruttamento che da esso ne derivava. Gli interventi umani, ovvero le trasformazioni che l’uomo ha realizzato
-nei secoli, i cambiamenti dei corsi fluviali e le massicce opere di bonifica hanno a loro volta innescato altri cambiamenti ambientali. Il territorio attuale
-ci tramanda il palinsesto in cui possiamo leggere questi cambiamenti, e i valori espressi dagli stessi uomini, dagli stessi abitanti. Ripensare al legame
-inscindibile, ma combattuto, tra uomo e ambiente in queste aree potrà contribuire a un uso più consapevole del territorio?
+nei secoli, i cambiamenti dei corsi fluviali e le massicce opere di bonifica hanno a loro volta innescato altri cambiamenti ambientali. 
 {: style="text-align: justify"}
-Per maggiori approfondimetni, clicca [qui](http://www.rmoa.unina.it/3166/1/474-1647-2-PB.pdf).
+> Il territorio attuale ci tramanda il palinsesto in cui possiamo leggere questi cambiamenti, e i valori espressi dagli stessi uomini, dagli stessi abitanti. Ripensare al legame inscindibile, ma combattuto, tra uomo e ambiente in queste aree potrà contribuire a un uso più consapevole del territorio?
+{: style="text-align: justify"}
+Per maggiori approfondimenti, clicca [qui](http://www.rmoa.unina.it/3166/1/474-1647-2-PB.pdf).
