@@ -3,7 +3,7 @@ layout: post-right-sidebar
 title:  "Relazione uomo-ambiente"
 author: EC
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+image: assets/images/frammento.jpg
 ---
 
 A qualunque scala si prenda in considerazione la storia di questo sito, non si può fare a meno di notare il costante legame del ruolo tra il territorio e i suoi
