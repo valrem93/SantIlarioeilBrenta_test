@@ -5,6 +5,17 @@ comments: true
 ---
 
 
+Calaon, D.; Ferri, M. (2008). «Il monastero dei dogi. SS. Ilario e Benedetto ai
+margini della laguna veneziana». Gelichi, S. (a cura di), Missioni archeologiche
+e progetti di ricerca e di scavo dell’Università Ca’ Foscari. Venezia, 185-97.
+{: style="text-align: justify"}
+
+Calaon, D.; Ferri, M.; Bagato, C. (2009). «SS. Ilario e Benedetto (IX secolo). Un
+monastero del nascente dogado veneziano tra terra e laguna». Volpe G.;
+Favia, P. (a cura di), V Congresso Nazionale di Archeologia Medievale (Foggia
+2009). Firenze, 498-504.
+{: style="text-align: justify"}
+
 Corrò, E.; Moine, C.; Primon, S. (2015). «[Reazioni uguali e contrarie. Evoluzione
 paleoambientale e trasformazioni storiche intorno al monastero dei Sant’Ilario
 e Benedetto (Dogaletto di Mira)](https://doi.org/10.6092/1593-2214/474)», in Gelichi, S. (a cura di), «Costruire
