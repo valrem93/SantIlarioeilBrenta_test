@@ -39,6 +39,9 @@ in Post Antiquity. In collaboration with E. Corrò and M. Castro Priego.
 Summertown, 18-37. 
 {: style="text-align: justify"}
 
+Corrò, E. (2021).«[Heritage Thinking. Approaching Communities with Communication in the Venice Countryside](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-543-8/heritage-thinking-approaching-communities-with-com/)», in Burgio, E.; Fischer, F.; Sartor, M. (eds), Knowledgescape Insights on Public Humanities (6 September 2021), 135-159.
+{: style="text-align: justify"}
+
 Corrò, E.; Piovan, S.; Primon, S.; Mozzi, P. (2021). «[Dinamiche fluviali e condizionamenti insediativi nel paesaggio di pianura](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-480-6/)», in Corrò, E.; Vinci, G. (a cura di), «Palinsesti programmati nell’Alto Adriatico?
 Decifrare, conservare, pianificare e comunicare il paesaggio. Atti della giornata di Studi (Venezia, 18 aprile 2019)». Venezia, 73-108.
 {: style="text-align: justify"}
