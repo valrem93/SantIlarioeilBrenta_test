@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Relazione uomo-ambiente"
+title:  "Trasformazioni naturali o artificiali?"
 author: EC
 categories: [ Jekyll, tutorial ]
 image: assets/images/frammento.JPG
