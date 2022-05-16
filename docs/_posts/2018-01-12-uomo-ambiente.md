@@ -1,5 +1,5 @@
 ---
-layout: post-left-sidebar
+layout: post
 title:  "Trasformazioni naturali o artificiali?"
 author: EC
 categories: [ Jekyll, tutorial ]
