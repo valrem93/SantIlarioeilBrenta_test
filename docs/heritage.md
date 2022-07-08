@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heritage
-comments: true
+comments: false
 ---
 
 

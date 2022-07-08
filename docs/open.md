@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibilità 
-comments: true
+comments: false
 ---
 Nel 2018, con il Decreto legislativo n. 106 che modifica ed aggiorna la Legge n.4/2004, l’Italia ha recepito la Direttiva UE 2016/2102, rivolta a migliorare l’accessibilità dei siti web e delle app mobili nel settore pubblico di ciascun Stato Membro. In attuazione della Direttiva europea L’ Agenzia per L’Italia Digitale (AGID) ha emanato le [Linee Guida sull’Accessibilità](https://www.agid.gov.it/it/design-servizi/accessibilita/linee-guida-accessibilita-strumenti-informatici) degli strumenti informatici, in vigore dal 10 gennaio 2020, che indirizzano la Pubblica Amministrazione all’erogazione di servizi sempre più accessibili.
 {: style="text-align: justify"}

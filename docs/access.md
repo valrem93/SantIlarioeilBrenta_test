@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Riferimenti bibliografici
-comments: true
+comments: false
 ---
 
 
